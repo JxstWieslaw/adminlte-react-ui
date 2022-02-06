@@ -1,2 +1,2 @@
-# adminlte-react-ui
+# Adminlte-React-UI
 Importing Admin-LTE theme onto React UI❤️‍🔥
